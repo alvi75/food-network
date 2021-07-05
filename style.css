@@ -5,12 +5,18 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
+.gray-color{
+    color: gray;
+}
 .orange-color{
     color: orange;
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
 }
 .half-width{
     width: 50%;
@@ -41,4 +47,24 @@ h1{
 }
 .about-me-padding{
     padding-top: 200px;
+}
+.my-recipies{
+    text-align: center;
+}
+.third-width{
+    width: 30%;
+    height: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+/* .food-item{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no;
+} */
+.third-width img{
+    width: 50%;
 }
