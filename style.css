@@ -1,0 +1,44 @@
+body{
+    font-family: 'ABeeZee', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 25px;
+    color: white;
+    font-weight: 700;
+    border-radius: 45px;
+}
+.just-eat{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+.about-me{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+}
+.about-me-img{
+    padding-top: 80px;
+}
+.about-me-padding{
+    padding-top: 200px;
+}
