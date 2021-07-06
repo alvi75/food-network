@@ -68,3 +68,7 @@ h2{
 .third-width img{
     width: 50%;
 }
+.flexible-container div{
+    margin-left: 70px;
+    padding: 20px;
+}
