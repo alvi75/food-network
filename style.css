@@ -68,3 +68,38 @@ h2{
     margin-left: 70px;
     padding: 20px;
 }
+.follower-stat{
+    display: flex;
+    width: 80%;
+    height: 30%;
+    margin-left: 9.3%;
+    margin-right: 5%;
+    margin-bottom: 70px;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+    border-radius: 25px;
+    box-shadow: 10px 10px 40px gray;
+}
+.fourth-width{
+    margin-left: 90px;
+    padding-left: 88px;
+    padding-right: 50px;
+    padding-bottom: 35px;
+
+}
+footer{
+    background-color: black;
+    height: 300px;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+footer h2{
+    text-align: center;
+
+}
+.footer-style{
+    padding-top: 70px;
+}
+
