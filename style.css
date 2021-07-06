@@ -58,17 +58,13 @@ h2{
     margin-right: 5%;
     padding-left: 15px;
     padding-right: 15px;
-    border-radius: 10px;
+    border-radius: 25px;
     box-shadow: 10px 10px 40px gray;
 }
-/* .food-item{
-    background-image: url(images/shapes/Frame\ 59.jpg);
-    background-repeat: no;
-} */
 .third-width img{
-    width: 50%;
+    width: 100%;
 }
-.flexible-container div{
+.third-width{
     margin-left: 70px;
     padding: 20px;
 }
