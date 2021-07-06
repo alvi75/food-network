@@ -108,4 +108,11 @@ footer h2{
 .footer-style{
     padding-top: 70px;
 }
-
+.stat-link{
+    text-decoration: none;
+    /* background-image: linear-gradient(orange, tomato); */
+    padding: 10px 25px;
+    color: black;
+    font-weight: 900;
+    border-radius: 45px;
+}
