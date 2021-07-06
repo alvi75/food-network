@@ -51,10 +51,16 @@ h2{
 .my-recipies{
     text-align: center;
 }
+.food-item{
+    height: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
 .third-width{
     width: 30%;
     height: 30%;
-    margin-left: 5%;
+    margin-left: 6%;
     margin-right: 5%;
     padding-left: 15px;
     padding-right: 15px;
@@ -70,10 +76,10 @@ h2{
 }
 .follower-stat{
     display: flex;
-    width: 80%;
+    width: 80.8%;
     height: 30%;
-    margin-left: 9.3%;
-    margin-right: 5%;
+    margin-left: 9.6%;
+    margin-right: 9%;
     margin-bottom: 70px;
     /* padding-left: 15px;
     padding-right: 15px; */
